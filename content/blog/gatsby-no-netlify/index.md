@@ -1,6 +1,7 @@
 ---
 title: Hospedar Site Gatsby no Netlify
 date: 2021-03-28 12:00:00 +0300
+thumbnail: ./gatsby_plus_netlify.png
 description: # Add post description (optional)
 img: ./gatsby_plus_netlify.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
