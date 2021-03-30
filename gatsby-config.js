@@ -3,7 +3,7 @@ module.exports = {
     title: `Yago Azevedo - Software Engineer`,
     description: `I am a Software Engineer focusing on front-end development.`,
     author: `Yago Azevedo`,
-    siteUrl: `https://yagoazevedo.github.io/`,
+    siteUrl: `https://yagoazevedo.com.br/`,
     social: {
       twitter: `oyagoazevedo`,
       facebook: ``,
@@ -11,6 +11,7 @@ module.exports = {
       linkedin: `yagoazevedo`,
       email: `yago.dev@gmail.com`,
     },
+    name: "Yago Azevedo"
   },
   plugins: [
     {
